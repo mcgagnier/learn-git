@@ -2,7 +2,6 @@
 
 learn-git
 =========
-
 ##Objective
 Practice using git + Github
 
